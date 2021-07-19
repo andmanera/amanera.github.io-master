@@ -4,8 +4,60 @@
   # github: sproogen/resume-theme
   dates: June 2021 | joint with Michele Fornino | Conditionally Accepted at <a href="https://www.journals.elsevier.com/review-of-economic-dynamics/">Review of Economic Dynamics</a>
   quote: >
-    <a href="https://github.com/mfornino/automation/blob/master/paper.pdf">Latest Version</a> |
-    <a href="https://github.com/mfornino/automation/blob/master/slides.pdf">Slides</a>
+    <a href="https://github.com/mfornino/automation/blob/master/paper.pdf">Latest Version</a>
 
   description: | # this will include new lines to allow paragraphs
     We study the economic incentives for automation when labor and machines are perfect substitutes. Labor may still be employed in production, even when it is a costlier input than robots on a productivity-adjusted basis. This occurs if firms face uninsurable idiosyncratic risk, adjusting the stock of machines is costly, and workers can be hired and fired quickly enough. Even though labor survives, jobs become less stable, as workers are hired in short-lived bursts to cope with shocks. We calibrate a general equilibrium, multi-industry version of our model to match data on robot adoption in US manufacturing sectors, and use it to compute the employment and labor share consequences of progress in automation technology. A fall in the relative price of robots leads to relatively few jobs losses, while reductions in adjustment costs, or improvements in relative robot productivity, can be far more disruptive. The model-implied semi-elasticity of aggregate employment to robot penetration ranges between 0.01% and 0.1%, depending on the underlying source of increased robot adoption. Adding reduced-form hiring and firing costs to our benchmark model reveals that the scare of automation is justified when regulations impose substantial rigidity on employment relations.
+
+
+- layout: top-middle
+  name: "Employment Protection and the Direction of Technology Adoption"
+  # link:
+  # github: sproogen/resume-theme
+  dates:  June 2021| joint with Martina Uccioli| Submitted for review
+  quote: >
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3754464">SSRN Version</a>
+
+  description: | # this will include new lines to allow paragraphs
+    We study the impact of employment protection legislation (EPL) on firms’
+    innovation choices, through an event-study analysis of several labor market
+    reforms occurring in Europe over 2000-2016.
+    Data on firms’ technology adoption from the Community Innovation Survey
+    reveal that substantial drops in EPL for temporary workers prompt a
+    reallocation of innovation efforts towards the introduction of new products,
+    away from process innovation aimed at cutting labor costs.
+    Among innovative firms, the share of product innovators increases by 15%
+    of the pre-reform value (10pp in absolute terms), while the share of firms
+    specializing in process innovation falls by 35% (also 10pp).
+
+
+- layout: top-middle
+  name: "Does the US Tax Code Favor Automation?"
+  # link:
+  # github: sproogen/resume-theme
+  dates:  Spring 2020| joint with Daron Acemoglu and Pascual Restrepo |
+  Published in <a href="https://www.brookings.edu/bpea-articles/does-the-u-s-tax-code-favor-automation/">Brookings Papers on Economic Activity</a|, Spring 2020
+  Press coverage: <a href="https://www.wsj.com/articles/covid-19-is-dividing-the-american-worker-11598068859">WSJ</a
+  quote: >
+    <a href="https://economics.mit.edu/files/20342">Published Version</a>
+
+  description: | # this will include new lines to allow paragraphs
+    We argue that the US tax system is biased against labor and in favor of capital
+    and has become more so in recent years. As a consequence,
+    it has promoted levels of automation beyond what is socially desirable.
+    Moving from the US tax system in the 2010s to optimal taxation of capital and
+    labor would raise employment by 4.02 percent and the
+    labor share by 0.78 percentage point and
+    restore the optimal level of automation.
+    If moving to optimal taxes is infeasible,
+    more modest reforms can still increase employment
+    by 1.14– 1.96 percent,
+    but in this case it is also beneficial to impose an
+    additional automation tax to reduce the equilibrium level of automation.
+    This is because marginal automated tasks do not bring
+    much productivity gains but displace workers,
+    reducing employment below its socially optimal level.
+    We additionally show that reducing labor taxes or combining
+    lower capital taxes with auto- mation taxes can increase employment
+    much more than the uniform reductions in capital taxes
+    enacted between 2000 and 2018.
