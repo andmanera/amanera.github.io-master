@@ -4,7 +4,7 @@
   dates: April 2018 - July 2020
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: > # this will include new lines to allow paragraphs
+  description: | # this will include new lines to allow paragraphs
     Jul 2019 - Jul 2020:  Research Assistant for Professor A. Simsek.
 
     Apr-Jul 2018: Research Assistant for Professor M. Beraja.
@@ -15,7 +15,7 @@
   dates: September 2013 - December 2015
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: > # this will include new lines to allow paragraph
+  description: | # this will include new lines to allow paragraph
     Sep-Dec 2015 Research Assistant for Professors T. Monacelli and C. Fumagalli, Bocconi
     University and IGIER.
 
