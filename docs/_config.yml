@@ -104,3 +104,5 @@ plugins:
 
 # Dark mode
  # darkmode: false (options: true, false, never)
+
+theme: jekyll-theme-minimal
