@@ -1,0 +1,39 @@
+- layout: left
+  name: MIT
+  dates: September 2016 - Present
+  qualification: PhD in Economics
+  quote: >
+    Expected graduation: June 2022
+  description: | # this will include new lines to allow paragraphs
+    <i>Advisors</i>: Daron Acemoglu, Martin Beraja.
+
+    <i>Majors</i>: Macroeconomics, Labor Economics.
+
+    <i>Minors</i>: Finance, Time Series Econometrics.
+
+- layout: left
+  name: Bocconi University
+  dates: September 2013 - December 2015
+  qualification: MSc in Economics and Social Sciences
+  quote: >
+    110/110 cum laude. (GPA: 30.4/31)
+  description: | # this will include new lines to allow paragraphs
+    <i>Advisors</i>: Tommaso Monacelli, Antonella Trigari.
+
+    <i>Thesis</i>: Lumpy Investment and Aggregate Dynamics: a New Keynesian Framework
+
+- layout: left
+  name: Columbia University
+  dates: Spring 2013
+  qualification: Exchange Semester
+  quote: >
+    GPA 4.33.
+
+- layout: left
+  name: Bocconi University
+  dates: September 2010 - November 2013
+  qualification: Bachelor in Economics and Social Sciences
+  quote: >
+    110/110 cum laude.
+  description: | # this will include new lines to allow paragraphs
+    <i>Advisor</i>: Tito Boeri

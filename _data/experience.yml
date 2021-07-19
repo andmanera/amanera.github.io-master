@@ -1,0 +1,60 @@
+- layout: left
+  company: MIT
+  job_title: Research Assistant
+  dates: April 2018 - July 2020
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: > # this will include new lines to allow paragraphs
+    July 2019 - July 2020:  Research Assistant for Professor A. Simsek, MIT.
+
+    Apr-Jul 2018: Research Assistant for Professor M. Beraja, MIT
+    Jan-Jul 2016 Analyst in the CEEMEA Economics Team, Global Investment Research Division at
+    Goldman Sachs International, London.
+    Sep-Dec 2015 Research Assistant for Professors T. Monacelli and C. Fumagalli, Bocconi
+    University and IGIER.
+    Summer 2015
+    2013-2015
+    Summer Analyst in the CEEMEA Economics Team, Global Investment Research
+    Division at Goldman Sachs International, London.
+    Visiting Student at Innocenzo Gasparini Institute for Economic Research (IGIER).
+# Mentors: Professors T. Monacelli (2014-2015) and T. Boeri (2013-2014).
+# Summer 2014 Research Assistant for Professors N. Gennaioli, Bocconi University, and S. Rossi,
+# Purdue University.
+# Spring 2014 Research Assistant for Professor T. Boeri, Bocconi University, IGIER and in
+# collaboration with Fondazione Rodolfo de Benedetti.
+# - layout: left
+#   company: Bocconi University
+#   link: "https://www.unibocconi.eu"
+#   job_title: Teaching and Research Assistant
+#   dates: September 2014 - June 2015
+#   # quote: >
+#   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#   description: | # this will include new lines to allow paragraphs
+#     I worked as a <b>research assistant</b> for Professor Tommaso Monacelli on various projects including 'Understanding the Gains from Wage Flexibility: The Exchange Rate Connection'. Tasks included writing MATLAB code of simulations, as well as econometric analyses in Stata.
+#
+#     During this period, I was also a <b>teaching assistant</b> for the undergraduate classes 30026 - Monetary Economics and 30029 - Intermediate Microeconomics.
+#
+# - layout: left
+#   company: IGIER
+#   link: "http://www.igier.unibocconi.it/"
+#   job_title: Intern
+#   dates: June 2014 - August 2014
+#   quote: >
+#    Self-Confirming Equilibria in Macroeconomics
+#   description: | # this will include new lines to allow paragraphs
+#     The <b>curricular internship</b> was a requirement of the Master of Science in Economics and Social Sciences at Bocconi University. I worked under the supervision of Professor Simone Cerreia-Vioglio. Tasks included performing a literature review on the topic of the application of the game-theoretic concept of Self-Confirming Equilibrium in Macroeconomics. I wrote a short paper summarizing my findings and proposing possible future avenues for research on the topic.
+#
+#     <i><a href="https://www.dropbox.com/s/k0rddutdxn8onvz/NotesSCE.pdf?dl=0">Paper</a></i>
+#
+# - layout: left
+#   company: Bulgarian National Bank
+#   link: "http://www.bnb.bg/?toLang=_EN"
+#   job_title: Summer Intern
+#   dates: July 2013 - August 2013
+#   quote: >
+#    Structuring and analyzing results from an external competitiveness study based on shift-shares analysis of export growth
+#   description: | # this will include new lines to allow paragraphs
+#     My <b>first work experience</b> was a four-weeks-long <b>internship</b> in Sofia, Bulgaria, under the supervision of Georgi Momchilov. I was tasked to organize the results of the shift-shares decomposition of export growth that the research department had just performed. The work culminated in a short paper and a presentation that I had to give in front of the entire research department of the BNB.
+#
+#     <i><a href="https://www.dropbox.com/s/2y6tpc66j35vmuu/Final%20Paper.pdf?dl=0">Paper</a> |
+#     <a href="https://www.dropbox.com/s/m6tnhpimeqy0nh0/Presentation.pdf?dl=0">Slides</a></i>
