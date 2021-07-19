@@ -37,8 +37,8 @@
   # github: sproogen/resume-theme
   dates:  Spring 2020| joint with Daron Acemoglu and Pascual Restrepo | Published in Brookings Papers on Economic Activity, Spring 2020
   quote: >
-    <a href="https://economics.mit.edu/files/20342">Published version</a>
-    <a href="https://www.brookings.edu/bpea-articles/does-the-u-s-tax-code-favor-automation/">BPEA link with with replication package</a>
+    <a href="https://economics.mit.edu/files/20342">Published version</a>|
+    <a href="https://www.brookings.edu/bpea-articles/does-the-u-s-tax-code-favor-automation/">BPEA link with with replication package</a>|
     <a href="https://www.wsj.com/articles/covid-19-is-dividing-the-american-worker-11598068859">WSJ press coverage</a>
   description: | # this will include new lines to allow paragraphs
     We argue that the US tax system is biased against labor and in favor of capital
