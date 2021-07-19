@@ -1,1 +1,106 @@
-theme: jekyll-theme-cayman
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Andrea Manera
+title: PhD Candidate in Economics
+email: manera@mit.edu
+website: https://amanera.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+# twitter_username: michele_fornino
+github_username:  andmanera
+# facebook_username: michele.fornino
+# linkedin_username: andrea-manera
+orcid_username: 0000-0003-2829-0065
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: > # Double new line is new line
+  I am a PhD Candidate in Economics from the
+    <a href="http://economics.mit.edu/">Massachusetts Institute
+    of Technology (MIT)</a> in Cambridge, MA, USA.
+    I will be on the Job Market in Fall 2021.
+
+  My research focuses on the economics of innovation, technology adoption,
+    automation, and related taxation and labor market policies. I
+    employ a mix of theoretical, numerical and empirical methods, relying on
+    tools from Macroeconomics and Labor Economics.
+
+  I love teaching undergraduate classes and advising, which
+  I had the chance to do when assisting in MIT's graduate class "Advanced
+  Research and Communication".
+
+  - Research interests: <mark>Economics of Automation</mark>,
+    <mark>Economics of Innovation</mark>, <mark>Directed Technical Change</mark>,
+    <mark>Economic Growth</mark>, <mark>Macroeconomics</mark>,
+    <mark>Labor Economics</mark>, <mark>Macro-Finance</mark>.
+
+  - Skills: <mark>MATLAB</mark> <mark>R</mark> <mark>Stata</mark>
+      <mark>Python</mark> <mark>LaTeX</mark>
+
+
+# Projects Section
+projects_title: Research
+
+# Experience Section
+experience_title: Work Experience
+
+# Education Section
+# educaton_title: Education
+
+# Awards Section
+# awards_title: Awards
+
+# More Section
+# more_title: A Little More About Me
+more_content: >
+  <b>Awards</b>
+   - <i>Guido Cazzavillan PhD Fellowship</i>, Full tuition and stipend
+   scholarship (2016).
+   - <i>Bocconi Graduate Merit Award</i>. Full tuition scholarship
+    awarded by Bocconi University (2012).
+
+  <b>Languages</b>: Italian (Native),
+   English (Proficient), French and Spanish (Good), some German (Basic).
+
+  <b>Other Interests</b>
+   - I love arthouse cinema: my absolute favorites are Andrei Tarkovsky
+   (Stalker, Andrei Rublev), Ingmar Bergman (The Seventh Seal!,
+   Fanny and Alexander), and Wong Kar-wai (In the Mood for Love,
+    Fallen Angels, Chungking Express).
+
+   - I am almost always reading some history book, usually on 19th century
+    Europe (First and Second French Empire), Ancient Rome (Gibbon), French or
+    Soviet history (Kotkin's Stalin Biography is a masterpiece),
+    and recently the empires of the steppes (Grousset). I also enjoy Economic
+    History and biography: my favorite mix of these two is Stiles' "The First
+    Tycoon."
+
+    - Ancient and Baroque music, which I continuously learn about on the
+    excellent RTVE podcast "Música Antigua". My favorite masters of the past
+    are the immortal Bach,
+    Kapsberger, Dowland, Monteverdi, Marais, Vivaldi and von Biebern. Also, a
+    lot of classical music. In a past life, I played a little piano.
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+# Dark mode
+ # darkmode: false (options: true, false, never)
