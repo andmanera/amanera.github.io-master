@@ -10,6 +10,21 @@
     Apr-Jul 2018: Research Assistant for Professor M. Beraja.
 
 - layout: left
+  company: Goldman Sachs International
+  job_title: Analyst, CEEMEA Economics Team (London)
+  dates: Summer 2015, Jan-Jul 2016
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraph
+    Summer Analyst and later off-cycle Analyst in the CEEMEA Economics Team, Global Investment Research
+    Division at Goldman Sachs International, London. Main tasks involved writing
+    reports on economic developments in Central and Eastern Europe,
+    the Middle East and Africa, developing indicators of core inflation, estimating
+    exchange rate passthrough, and impulse responses to various supply and policy shocks.
+
+
+
+- layout: left
   company: Bocconi University and IGIER
   job_title: Research Assistant
   dates: September 2013 - December 2015

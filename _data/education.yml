@@ -26,6 +26,9 @@
   name: Columbia University
   dates: Spring 2013
   qualification: Exchange Semester
+  description: >
+    <i>Classes</i>: International Macro, International Trade, Economic History
+    of the U.S., Development Economics.
   quote: >
     GPA 4.33.
 
@@ -37,3 +40,5 @@
     110/110 cum laude.
   description: | # this will include new lines to allow paragraphs
     <i>Advisor</i>: Tito Boeri
+
+    <i>Final Paper</i>: Lumpy Investment and Aggregate Dynamics: a New Keynesian Framework
