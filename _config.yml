@@ -48,6 +48,12 @@ projects_title: Research
 
 # Professional Activity
 prof_title: Professional Activity
+prof_content:
+  - layout: left
+    name: Referee
+    description: | # this will include new lines to allow paragraphs
+      <i>Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower</i>
+
 
 # Experience Section
 experience_title: Work Experience
