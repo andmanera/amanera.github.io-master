@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Andrea Manera
 title: PhD Candidate in Economics
 email: manera@mit.edu
-website: https://andmanera.github.io/amanera.github.io-master/
+#website: <a href="https://andmanera.github.io/amanera.github.io-master/">andmanera.github.io</a>
 
 # Dark Mode (true/false/never)
 darkmode: never
