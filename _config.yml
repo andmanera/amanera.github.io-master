@@ -47,6 +47,14 @@ about_content: > # Double new line is new line
 projects_title: Research
 
 # Professional Activity
+content:
+  - layout: list
+    title: Professional Activity
+  #
+  #
+  # title: Professional Activity
+  # description: |
+  #   <b>Referee</b> for the Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower
 
 # Experience Section
 experience_title: Work Experience
