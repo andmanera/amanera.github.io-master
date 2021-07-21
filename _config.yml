@@ -44,7 +44,7 @@ about_content: > # Double new line is new line
 
 
 # Projects Section
-projects_title: Research
+#projects_title: Research
 
 # Professional Activity
 content:
@@ -57,7 +57,7 @@ content:
   #   <b>Referee</b> for the Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower
 
 # Experience Section
-experience_title: Work Experience
+#experience_title: Work Experience
 
 # Education Section
 # education_title: Education
@@ -67,18 +67,18 @@ experience_title: Work Experience
 
 # More Section
 # more_title: A Little More About Me
-more_content: >
-  <b>Awards</b>
-   - <i>Guido Cazzavillan PhD Fellowship</i>, Full tuition and stipend
-   scholarship (2016).
-   - <i>Bocconi Graduate Merit Award</i>. Full tuition scholarship
-    awarded by Bocconi University (2012).
-
-  <b>Languages</b>: Italian (Native),
-   English (Proficient), French and Spanish (Good), some German and Bengali (Basic).
-
-  <b>Personal Interests</b>
-   Arthouse cinema, history books, classical, ancient and baroque music.
+# more_content: >
+#   <b>Awards</b>
+#    - <i>Guido Cazzavillan PhD Fellowship</i>, Full tuition and stipend
+#    scholarship (2016).
+#    - <i>Bocconi Graduate Merit Award</i>. Full tuition scholarship
+#     awarded by Bocconi University (2012).
+#
+#   <b>Languages</b>: Italian (Native),
+#    English (Proficient), French and Spanish (Good), some German and Bengali (Basic).
+#
+#   <b>Personal Interests</b>
+#    Arthouse cinema, history books, classical, ancient and baroque music.
 
 # Footer
 footer_show_references: true
