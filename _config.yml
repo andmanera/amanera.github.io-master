@@ -47,14 +47,6 @@ about_content: > # Double new line is new line
 projects_title: Research
 
 # Professional Activity
-content:
-  - title: Professional Activity # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Referee
-        description: | # this will include new lines to allow paragraphs
-          <i>Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower</i>
 
 # Experience Section
 experience_title: Work Experience
