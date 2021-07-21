@@ -97,3 +97,17 @@ plugins:
  # darkmode: false (options: true, false, never)
 
 theme: jekyll-theme-minimal
+
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
