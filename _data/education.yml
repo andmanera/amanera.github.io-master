@@ -22,23 +22,19 @@
 
     <i>Thesis</i>: Lumpy Investment and Aggregate Dynamics: a New Keynesian Framework
 
-- layout: left
-  name: Columbia University
-  dates: Spring 2013
-  qualification: Exchange Semester
-  description: >
-    <i>Classes</i>: International Macro, International Trade, Economic History
-    of the U.S., Development Economics.
-  quote: >
-    GPA 4.33.
+
 
 - layout: left
-  name: Bocconi University
+  name: > Bocconi University
+
+  Columbia University
   dates: September 2010 - November 2013
   qualification: Bachelor in Economics and Social Sciences
   quote: >
     110/110 cum laude.
   description: | # this will include new lines to allow paragraphs
+    <i>Spring 2013<i>: Exchange semester at Columbia University (GPA 4.33)
+
     <i>Advisor<i>: Tito Boeri
 
     <i>Final Project</i>: On the Impact of German Vocational Education and Training

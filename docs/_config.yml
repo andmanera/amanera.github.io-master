@@ -48,6 +48,9 @@ about_content: > # Double new line is new line
 # Projects Section
 projects_title: Research
 
+# Professional Activity
+prof_title: Professional Activity
+
 # Experience Section
 experience_title: Work Experience
 
@@ -67,26 +70,10 @@ more_content: >
     awarded by Bocconi University (2012).
 
   <b>Languages</b>: Italian (Native),
-   English (Proficient), French and Spanish (Good), some German (Basic).
+   English (Proficient), French and Spanish (Good), some German and Bengali (Basic).
 
-  <b>Other Interests</b>
-   - I love arthouse cinema: my absolute favorites are Andrei Tarkovsky
-   (Stalker, Andrei Rublev), Ingmar Bergman (The Seventh Seal!,
-   Fanny and Alexander), and Wong Kar-wai (In the Mood for Love,
-    Fallen Angels, Chungking Express).
-
-   - I am almost always reading some history book, usually on 19th century
-    Europe (First and Second French Empire), Ancient Rome (Gibbon),
-    and recently the empires of the steppes (Grousset). I also enjoy Economic
-    History and biography; my favorite mix of these two is Stiles' "The First
-    Tycoon."
-
-    - Ancient and Baroque music, which I continuously learn about on the
-    excellent RTVE podcast "Música Antigua". My favorite masters of the past
-    are the immortal Bach,
-    Kapsberger, Dowland, Monteverdi, Marais, Vivaldi and von Biebern. Also, a
-    lot of classical music. In a past life, I played a little piano.
-
+  <b>Personal Interests</b>
+   Arthouse cinema, history books, classical, ancient and baroque music.
 
 # Footer
 footer_show_references: true
