@@ -1,3 +1,6 @@
+- layout: top-middle
+  title: Professional Activity
+
 - layout: left
   company: MIT
   job_title: Research Assistant
@@ -36,14 +39,14 @@
 
     2013-2015:  Visiting Student at Innocenzo Gasparini Institute for Economic Research (IGIER).
 
-content:
-  - title: Professional Activity # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Referee
-        description: | # this will include new lines to allow paragraphs
-          <i>Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower</i>
+# content:
+#   - title: Professional Activity # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         title: Referee
+#         description: | # this will include new lines to allow paragraphs
+#           <i>Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower</i>
 
 # Mentors: Professors T. Monacelli (2014-2015) and T. Boeri (2013-2014).
 # Summer 2014 Research Assistant for Professors N. Gennaioli, Bocconi University, and S. Rossi,
