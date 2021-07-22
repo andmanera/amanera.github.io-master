@@ -1,3 +1,16 @@
+- layout: left
+  company: Professional Activity
+  job_title: Refereeing and Conferences
+  dates: Current
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    <i>Referee</i>: Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower
+
+    <i>Conferences (Including Scheduled)</i>: IZA Workshop: Labor Market Institutions (Sep 2021),
+     EEA-ESEM Virtual 2021 (Aug 2021), Robotics: Science and Systems 2021 (Jul 2021),
+     MFM Summer Session for Young Scholars (2018), Yale Summer School in Behavioral Finance (2017) 
+
 
 - layout: left
   company: MIT
@@ -9,10 +22,10 @@
     <i>Undergraduate Teaching</i>: 14.02 Principles of Macroeconomics (Fall 2018),
      14.03 Microeconomic Theory and Public Policy (Spring 2019 - Spring 2020)
 
-    <i>Graduate Teaching</i>: 14.192 Advanced Research and Communiction (Fall - Spring 2020)
+    <i>Graduate Teaching</i>: 14.192 Advanced Research and Communication (Fall - Spring 2020)
 
     <i>Research Assistant</i> to Prof. D. Acemoglu (Fall 2020), A. Simsek (Summer 2019 - Summer 2020), and M. Beraja (Spring 2018)
-    
+
 - layout: left
   company: Goldman Sachs International
   job_title: Analyst, CEEMEA Economics Team (London)
