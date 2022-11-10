@@ -2,12 +2,12 @@
   name: "Competing for Inventors: Market Concentration and the Misallocation of Innovative Talent"
   # link:
   # github: sproogen/resume-theme
-  dates: November 2021 | JOB MARKET PAPER
+  dates: November 2022 | (My Job Market Paper)
   quote: >
-    <a href="https://github.com/andmanera/Job-Market/blob/main/draft/draft.pdf">Click For Latest Version</a>|<a href="https://github.com/andmanera/Job-Market/blob/main/JMP_slides/slides.pdf">Slides</a>
+    <a href="https://github.com/andmanera/Job-Market/blob/main/draft_submission/draft.pdf">Click For Latest Version</a>|<a href="https://github.com/andmanera/Job-Market/blob/main/JMP_slides/slides.pdf">Slides</a>
 
   description: | # this will include new lines to allow paragraphs
-    The rapid productivity gains achieved by technological innovations in the 20th century have slowed in recent decades. This has come at a time of increased market concentration. In this paper, I explore how dominant companies in concentrated sectors have siphoned off inventors that might have been employed more productively in competitive industries. For the period 1997-2012, I establish that sectors with rising concentration captured a disproportionate share of researchers, while also experiencing a decrease in R&D productivity, signaled by falling forward citations and slowing growth per inventor. These findings imply that inventors became increasingly misallocated, which caused a 27% fall in output per worker growth over the period. I show that these results arise naturally in a Schumpeterian growth model where monopolistic firms conduct “defensive patenting” to hamper competitors’ R&D. A calibration of this model reveals that a planner interested in maximizing growth should allocate R&D tax credits to entrants in high-concentration sectors.
+    The rapid productivity gains achieved by technological innovations in the 20th century have slowed in recent decades. This has come at a time of increased market concentration. In this paper, I explore how dominant companies in concentrated sectors have siphoned off inventors that might have been employed more productively in competitive industries. For the period 1997-2012, I establish that sectors with rising concentration captured a disproportionate share of researchers, while also experiencing a decrease in R&D productivity, signaled by falling forward citations and slowing growth per inventor. These findings imply that inventors became increasingly misallocated, accounting for nearly 30 percent of the decline in output per worker growth over the period. I show that these results arise naturally in a Schumpeterian growth model where monopolistic firms conduct “defensive patenting” to hamper competitors’ R&D. A calibration of this model reveals that a growth-maximizing planner should subsidize entrants’ R&D in high-concentration sectors.
 
 
 - layout: top-middle

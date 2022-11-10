@@ -1,15 +1,25 @@
 - layout: left
+  company: International Monetary Fund
+  job_title: Economist (Development Macroeconomics)
+  dates: September 2022 - Current
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Economist in the Development Macroeconomics Division at the Research Department.
+
+- layout: left
   company: Professional Activity
   job_title: Refereeing and Conferences
   dates: Current
   # quote: >
   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    <i>Referee</i>: Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, International Journal of Manpower
+    <i>Referee</i>: Quarterly Journal of Economics, AER:Insights, Review of Economic Dynamics, Canadian Journal of Economics, International Journal of Manpower
 
-    <i>Conferences (Including Scheduled)</i>: IZA Workshop: Labor Market Institutions (Sep 2021),
+    <i>Conferences (Including Scheduled)</i>: Southern Economic Association (Nov 2022),
+     IZA Workshop: Labor Market Institutions (Sep 2021),
      EEA-ESEM Virtual 2021 (Aug 2021), Robotics: Science and Systems 2021 (Jul 2021),
-     MFM Summer Session for Young Scholars (2018), Yale Summer School in Behavioral Finance (2017) 
+     MFM Summer Session for Young Scholars (2018), Yale Summer School in Behavioral Finance (2017)
 
 
 - layout: left
